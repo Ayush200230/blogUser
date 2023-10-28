@@ -21,5 +21,14 @@
     "react-dom": "18.2.0",
     "react-quill": "^2.0.0",
     "swr": "^2.2.2"
+  },
+  "resolutions": {
+    "debug": "4.3.4",
+    "doctrine": "3.0.0",
+    "glob-parent": "6.0.2",
+    "semver": "6.3.1",
+    "resolve": "1.22.4",
+    "emoji-regex": "9.2.2",
+    "idb": "7.1.1"
   }
 }
